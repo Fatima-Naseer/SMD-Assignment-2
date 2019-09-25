@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimary">#696969</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#696969</color>
+    <color name="white">#ffffff</color>
+    <color name="purple">#9400D3</color>
+    <color name="btColor">#FFC107</color>
+    <color name="light_background">#D3D3D3</color>
+    <color name="oliveColor">#808000</color>
+    <color name="blue">#1F75FE</color>
+</resources>

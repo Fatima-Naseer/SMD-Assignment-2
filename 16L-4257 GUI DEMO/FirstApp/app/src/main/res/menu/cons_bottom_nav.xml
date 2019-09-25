@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Today"
+        android:id="@+id/nav_today"
+        android:icon="@drawable/ic_today_black_24dp"
+        />
+
+    <item
+        android:title="Games"
+        android:id="@+id/nav_games"
+        android:icon="@drawable/ic_gamepad_black_24dp"
+        />
+
+    <item
+        android:title="Apps"
+        android:id="@+id/nav_apps"
+        android:icon="@drawable/ic_apps_black_24dp"
+        />
+
+    <item
+        android:title="Updates"
+        android:id="@+id/nav_updates"
+        android:icon="@drawable/ic_update_black_24dp"
+        />
+
+    <item
+        android:title="Search"
+        android:id="@+id/nav_searcch"
+        android:icon="@drawable/ic_search_black_24dp"
+        />
+</menu>
